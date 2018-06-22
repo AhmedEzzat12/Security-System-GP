@@ -1,0 +1,9 @@
+Name,Email,Phone,Password
+mm,lll@k,025,5555
+ll,lol@k,0l5,5l5
+mm,kk@gmail.com,0122,dfd
+kk,lll@grd,g,025
+225,,,
+menna,tutu.monna96@gmail.com,01018482274,1234
+menna1,tutu.monna965@gmail.com,01018482274,1234
+menna14,tutu.monna9654@gmail.com,01018482274,1234
